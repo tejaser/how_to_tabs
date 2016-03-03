@@ -11,4 +11,7 @@ Based on the learning of front end I will try to develop a basic tab-switching e
 5. Copy the source repository to your computer
 6. Change to the project directory.
 
-To run the build, type `node build.js`.
+To run the build,
+
+1. Install jake: `npm install jake -g`.
+2. run jake `jake`.
