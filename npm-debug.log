@@ -1,0 +1,187 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/5.0.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'rebuild' ]
+2 info using npm@3.3.9
+3 info using node@v5.0.0
+4 info readInstalled object
+5 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs',
+5 verbose rebuild   'how_to_tabs@1.0.0' ]
+6 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/ansi-styles',
+6 verbose rebuild   'ansi-styles@1.0.0' ]
+7 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/chalk',
+7 verbose rebuild   'chalk@0.4.0' ]
+8 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/has-color',
+8 verbose rebuild   'has-color@0.1.7' ]
+9 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/strip-ansi',
+9 verbose rebuild   'strip-ansi@0.1.1' ]
+10 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/async',
+10 verbose rebuild   'async@0.9.2' ]
+11 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/lru-cache',
+11 verbose rebuild   'lru-cache@2.7.3' ]
+12 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/minimatch',
+12 verbose rebuild   'minimatch@0.2.14' ]
+13 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/sigmund',
+13 verbose rebuild   'sigmund@1.0.1' ]
+14 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/utilities',
+14 verbose rebuild   'utilities@1.0.4' ]
+15 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake',
+15 verbose rebuild   'jake@8.0.12' ]
+16 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist',
+16 verbose rebuild   'filelist@0.0.4' ]
+17 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist/node_modules/minimatch',
+17 verbose rebuild   'minimatch@0.3.0' ]
+18 verbose rebuild path, id [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist/node_modules/utilities',
+18 verbose rebuild   'utilities@0.0.37' ]
+19 silly rebuild set [ '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/ansi-styles',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/chalk',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/has-color',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/strip-ansi',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/async',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/lru-cache',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/minimatch',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/sigmund',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/utilities',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist/node_modules/minimatch',
+19 silly rebuild set   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/filelist/node_modules/utilities' ]
+20 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/ansi-styles
+21 info lifecycle ansi-styles@1.0.0~preinstall: ansi-styles@1.0.0
+22 silly lifecycle ansi-styles@1.0.0~preinstall: no script for preinstall, continuing
+23 info linkStuff ansi-styles@1.0.0
+24 silly linkStuff ansi-styles@1.0.0 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+25 verbose linkBins ansi-styles@1.0.0
+26 verbose linkMans ansi-styles@1.0.0
+27 verbose rebuildBundles ansi-styles@1.0.0
+28 info lifecycle ansi-styles@1.0.0~install: ansi-styles@1.0.0
+29 silly lifecycle ansi-styles@1.0.0~install: no script for install, continuing
+30 info lifecycle ansi-styles@1.0.0~postinstall: ansi-styles@1.0.0
+31 silly lifecycle ansi-styles@1.0.0~postinstall: no script for postinstall, continuing
+32 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/chalk
+33 info lifecycle chalk@0.4.0~preinstall: chalk@0.4.0
+34 silly lifecycle chalk@0.4.0~preinstall: no script for preinstall, continuing
+35 info linkStuff chalk@0.4.0
+36 silly linkStuff chalk@0.4.0 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+37 verbose linkBins chalk@0.4.0
+38 verbose linkMans chalk@0.4.0
+39 verbose rebuildBundles chalk@0.4.0
+40 info lifecycle chalk@0.4.0~install: chalk@0.4.0
+41 silly lifecycle chalk@0.4.0~install: no script for install, continuing
+42 info lifecycle chalk@0.4.0~postinstall: chalk@0.4.0
+43 silly lifecycle chalk@0.4.0~postinstall: no script for postinstall, continuing
+44 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/has-color
+45 info lifecycle has-color@0.1.7~preinstall: has-color@0.1.7
+46 silly lifecycle has-color@0.1.7~preinstall: no script for preinstall, continuing
+47 info linkStuff has-color@0.1.7
+48 silly linkStuff has-color@0.1.7 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+49 verbose linkBins has-color@0.1.7
+50 verbose linkMans has-color@0.1.7
+51 verbose rebuildBundles has-color@0.1.7
+52 info lifecycle has-color@0.1.7~install: has-color@0.1.7
+53 silly lifecycle has-color@0.1.7~install: no script for install, continuing
+54 info lifecycle has-color@0.1.7~postinstall: has-color@0.1.7
+55 silly lifecycle has-color@0.1.7~postinstall: no script for postinstall, continuing
+56 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/strip-ansi
+57 info lifecycle strip-ansi@0.1.1~preinstall: strip-ansi@0.1.1
+58 silly lifecycle strip-ansi@0.1.1~preinstall: no script for preinstall, continuing
+59 info linkStuff strip-ansi@0.1.1
+60 silly linkStuff strip-ansi@0.1.1 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+61 verbose linkBins strip-ansi@0.1.1
+62 verbose link bins [ { 'strip-ansi': 'cli.js' },
+62 verbose link bins   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/.bin',
+62 verbose link bins   false ]
+63 verbose linkMans strip-ansi@0.1.1
+64 verbose rebuildBundles strip-ansi@0.1.1
+65 silly gentlyRm /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/.bin/strip-ansi is being purged
+66 verbose gentlyRm don't care about contents; nuking /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/.bin/strip-ansi
+67 info lifecycle strip-ansi@0.1.1~install: strip-ansi@0.1.1
+68 silly lifecycle strip-ansi@0.1.1~install: no script for install, continuing
+69 info lifecycle strip-ansi@0.1.1~postinstall: strip-ansi@0.1.1
+70 silly lifecycle strip-ansi@0.1.1~postinstall: no script for postinstall, continuing
+71 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/async
+72 info lifecycle async@0.9.2~preinstall: async@0.9.2
+73 silly lifecycle async@0.9.2~preinstall: no script for preinstall, continuing
+74 info linkStuff async@0.9.2
+75 silly linkStuff async@0.9.2 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+76 verbose linkBins async@0.9.2
+77 verbose linkMans async@0.9.2
+78 verbose rebuildBundles async@0.9.2
+79 info lifecycle async@0.9.2~install: async@0.9.2
+80 silly lifecycle async@0.9.2~install: no script for install, continuing
+81 info lifecycle async@0.9.2~postinstall: async@0.9.2
+82 silly lifecycle async@0.9.2~postinstall: no script for postinstall, continuing
+83 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/lru-cache
+84 info lifecycle lru-cache@2.7.3~preinstall: lru-cache@2.7.3
+85 silly lifecycle lru-cache@2.7.3~preinstall: no script for preinstall, continuing
+86 info linkStuff lru-cache@2.7.3
+87 silly linkStuff lru-cache@2.7.3 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+88 verbose linkBins lru-cache@2.7.3
+89 verbose linkMans lru-cache@2.7.3
+90 verbose rebuildBundles lru-cache@2.7.3
+91 info lifecycle lru-cache@2.7.3~install: lru-cache@2.7.3
+92 silly lifecycle lru-cache@2.7.3~install: no script for install, continuing
+93 info lifecycle lru-cache@2.7.3~postinstall: lru-cache@2.7.3
+94 silly lifecycle lru-cache@2.7.3~postinstall: no script for postinstall, continuing
+95 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/minimatch
+96 info lifecycle minimatch@0.2.14~preinstall: minimatch@0.2.14
+97 silly lifecycle minimatch@0.2.14~preinstall: no script for preinstall, continuing
+98 info linkStuff minimatch@0.2.14
+99 silly linkStuff minimatch@0.2.14 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+100 verbose linkBins minimatch@0.2.14
+101 verbose linkMans minimatch@0.2.14
+102 verbose rebuildBundles minimatch@0.2.14
+103 info lifecycle minimatch@0.2.14~install: minimatch@0.2.14
+104 silly lifecycle minimatch@0.2.14~install: no script for install, continuing
+105 info lifecycle minimatch@0.2.14~postinstall: minimatch@0.2.14
+106 silly lifecycle minimatch@0.2.14~postinstall: no script for postinstall, continuing
+107 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/sigmund
+108 info lifecycle sigmund@1.0.1~preinstall: sigmund@1.0.1
+109 silly lifecycle sigmund@1.0.1~preinstall: no script for preinstall, continuing
+110 info linkStuff sigmund@1.0.1
+111 silly linkStuff sigmund@1.0.1 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+112 verbose linkBins sigmund@1.0.1
+113 verbose linkMans sigmund@1.0.1
+114 verbose rebuildBundles sigmund@1.0.1
+115 info lifecycle sigmund@1.0.1~install: sigmund@1.0.1
+116 silly lifecycle sigmund@1.0.1~install: no script for install, continuing
+117 info lifecycle sigmund@1.0.1~postinstall: sigmund@1.0.1
+118 silly lifecycle sigmund@1.0.1~postinstall: no script for postinstall, continuing
+119 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/utilities
+120 info lifecycle utilities@1.0.4~preinstall: utilities@1.0.4
+121 silly lifecycle utilities@1.0.4~preinstall: no script for preinstall, continuing
+122 info linkStuff utilities@1.0.4
+123 silly linkStuff utilities@1.0.4 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+124 verbose linkBins utilities@1.0.4
+125 verbose linkMans utilities@1.0.4
+126 verbose rebuildBundles utilities@1.0.4
+127 info lifecycle utilities@1.0.4~install: utilities@1.0.4
+128 silly lifecycle utilities@1.0.4~install: no script for install, continuing
+129 info lifecycle utilities@1.0.4~postinstall: utilities@1.0.4
+130 silly lifecycle utilities@1.0.4~postinstall: no script for postinstall, continuing
+131 info build /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake
+132 info lifecycle jake@8.0.12~preinstall: jake@8.0.12
+133 silly lifecycle jake@8.0.12~preinstall: no script for preinstall, continuing
+134 info linkStuff jake@8.0.12
+135 silly linkStuff jake@8.0.12 has /Users/Tejas/Documents/Projects/how_to_tabs/node_modules as its parent node_modules
+136 verbose linkBins jake@8.0.12
+137 verbose link bins [ { jake: './bin/cli.js' },
+137 verbose link bins   '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/.bin',
+137 verbose link bins   false ]
+138 verbose linkMans jake@8.0.12
+139 verbose rebuildBundles jake@8.0.12
+140 verbose stack Error: ENOENT: no such file or directory, chmod '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake/bin/cli.js'
+140 verbose stack     at Error (native)
+141 verbose cwd /Users/Tejas/Documents/Projects/how_to_tabs
+142 error Darwin 15.3.0
+143 error argv "/usr/local/Cellar/node/5.0.0/bin/node" "/usr/local/bin/npm" "rebuild"
+144 error node v5.0.0
+145 error npm  v3.3.9
+146 error path /Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake/bin/cli.js
+147 error code ENOENT
+148 error errno -2
+149 error syscall chmod
+150 error enoent ENOENT: no such file or directory, chmod '/Users/Tejas/Documents/Projects/how_to_tabs/node_modules/jake/bin/cli.js'
+150 error enoent This is most likely not a problem with npm itself
+150 error enoent and is related to npm not being able to find a file.
+151 verbose exit [ -2, true ]

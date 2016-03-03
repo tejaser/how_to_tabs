@@ -3,3 +3,6 @@
 
 # ignore data files
 .xlsx
+
+# npm
+node_modules/**/.bin/
