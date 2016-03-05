@@ -4,6 +4,7 @@
   "description": "basic javascript code to switch between tabs",
   "private": true,
   "devDependencies": {
-    "jake": "^8.0.12"
+    "jake": "^8.0.12",
+    "semver": "^4.3.6"
   }
 }

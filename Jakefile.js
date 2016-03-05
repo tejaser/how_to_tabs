@@ -1,12 +1,24 @@
-(function () {
-    "use strict";
-    console.log("\n\nBUILD OK");
-    desc("Default Build");
-    task("default",function(){
-        console.log("I am in the default task");
-    });
-    desc("blahblah function");
-    task("blahblah",function(){
-        console.log("I am in blahblah");
-    });
+(function() {
+	"use strict";
+
+	var semver = require("semver");
+
+	desc("Default build");
+	task("default", [ "version" ], function() {
+		console.log("\n\nBUILD OK");
+	});
+
+	desc("Check Node version");
+	task("version", function() {
+		console.log("Checking Node version: .");
+
+		var packageJson = require("./package.json");
+		var expectedVersion = packageJson.engines.node;
+
+		var actualVersion = process.version;
+		if (semver.neq(expectedVersion, actualVersion)) {
+			fail("Incorrect Node version: expected " + expectedVersion + ", but was " + actualVersion);
+		}
+	});
+
 }());

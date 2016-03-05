@@ -13,5 +13,4 @@ Based on the learning of front end I will try to develop a basic tab-switching e
 
 To run the build,
 
-1. Install jake: `npm install jake -g`.
-2. run jake `jake`.
+1. run jake `./jake.sh`.
